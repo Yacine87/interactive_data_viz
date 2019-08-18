@@ -1,6 +1,6 @@
 # interactive_data_viz
 You will find in this repository exemples of interactive data visualisation with Shiny and other R pakages 
-This work has been presented in the 2019 Algerian R users group Meetup, organised in August, 2019. 
+This work has been presented in the 2019 Algerian R users group Meetup, organised in August, 2019 in Algiers, Algeria.
 
 The data used in this exemple are about movies. 
 The file contains 651 obs (films) discribed with 34 features. 
