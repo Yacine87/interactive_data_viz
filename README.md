@@ -6,7 +6,7 @@ The data used in this exemple are about movies.
 The file contains 651 obs (films) discribed with 34 features. 
 You can load the data file following : http://s3.amazonaws.com/assets.datacamp.com/production/course_4850/datasets/movies.Rdata
 
-The aim of this shiny app is to visualise the movies' file data. Three possibilities are given: 
+The aim of this shiny app is to visualise interactively the movies' file data. Three possibilities are given: 
 1/ Visualise interactively Numeric vs numric variables through scatterplot (geom_point() from R ggplot2 package)
 2/ Visualise interactively Factor variables  (geom_bar() from R ggplot2 package)
 3/ Visualise interactively numeric vs factor  variables  
