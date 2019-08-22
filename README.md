@@ -11,7 +11,7 @@ The aim of this shiny app is to visualise interactively the movies' file data. T
 2/ Visualise interactively Factor variables  (geom_bar() from R ggplot2 package)
 3/ Visualise interactively numeric vs factor  variables  
 
-It gaves to the user also the possibiliy to facet interactively the shown plots by checkiing a checkboxInput() (facet_wrap() function of the ggplot2 package)
+It gives to the user also the possibiliy to facet interactively the shown plots by checking a checkboxInput() (facet_wrap() function of the ggplot2 package)
 
 You can use the app with an other data file. 
 But you need first to modify the file name (from movies to yours) and variable names in the argument choices() of the inputSelect() funtion in the R code. 
